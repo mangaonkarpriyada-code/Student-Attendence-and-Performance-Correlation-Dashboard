@@ -94,7 +94,7 @@ Users can:
 
 ## Project Demo
 
-[Watch the project demonstration on YouTube](YOUR_YOUTUBE_LINK_HERE)
+[Watch the project demonstration on YouTube](https://youtu.be/ZM9gi02OU7E?si=IBbXMqJ75j2p7T_W)
 
 ### Dashboard Overview
 
