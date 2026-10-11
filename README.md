@@ -2,6 +2,12 @@
 
 An interactive data analysis and visualization dashboard built using Python, Pandas, NumPy, Matplotlib, and Streamlit to analyze student attendance and academic performance.
 
+## Live Demo
+
+**Live Application:** [Student Attendance & Performance Dashboard](https://student-attendence-and-performance-correlation-dashboard-jmwtn.streamlit.app/)
+
+Explore student attendance, academic performance, interactive visualizations, and at-risk student analysis directly in your browser.
+
 ## Project Overview
 
 The Student Attendance & Performance Dashboard analyzes student attendance, assignment scores, internal marks, and overall academic performance.
@@ -31,9 +37,9 @@ The project uses data preprocessing, statistical analysis, correlation analysis,
 - Interactive KPI cards
 - Student name search
 - Department and student status filtering
-- Top 5 performing students
+- Top five performing students
 - Individual student performance details
-- Attendance vs. academic performance analysis
+- Attendance versus academic performance analysis
 - Attendance-performance correlation analysis
 - Performance and attendance category distributions
 - Performance percentage pie chart
@@ -44,7 +50,7 @@ The project uses data preprocessing, statistical analysis, correlation analysis,
 
 ## Data Analysis
 
-- Data loading using Pandas
+- Data loading and processing using Pandas
 - Data inspection and preprocessing
 - Missing-value detection
 - Attendance and performance categorization
@@ -56,7 +62,7 @@ The project uses data preprocessing, statistical analysis, correlation analysis,
 ## Project Structure
 
 ```text
-Student_Attendance_Performance_Dashboard/
+Student-Attendence-and-Performance-Correlation-Dashboard/
 ├── data/
 │   ├── student_data.csv
 │   └── processed_student_data.csv
@@ -75,21 +81,23 @@ Student_Attendance_Performance_Dashboard/
 
 The Streamlit dashboard provides an interactive interface for analyzing student data. Users can filter students, search for individual records, explore performance relationships, compare monthly trends, identify at-risk students, and download filtered data.
 
-## Project Demo
+## Project Demonstration
 
-[Watch the Student Attendance & Performance Dashboard Demo on YouTube](https://youtu.be/ZM9gi02OU7E)
+Watch the project demonstration on YouTube:
+
+[Student Attendance & Performance Dashboard Demo](https://youtu.be/ZM9gi02OU7E)
 
 ## Dashboard Screenshots
 
-### 1. Dashboard Overview
+### Dashboard Overview
 
 ![Dashboard Overview](screenshots/dashboard.png)
 
-### 2. Analytics and Visualizations
+### Analytics and Visualizations
 
 ![Analytics](screenshots/analytics.png)
 
-### 3. At-Risk Students and Student Data
+### At-Risk Students and Student Data
 
 ![Risk and Student Data](screenshots/risk.png)
 
@@ -134,16 +142,15 @@ The project uses the following Python libraries:
 - matplotlib
 - streamlit
 
-The dependencies are listed in `requirements.txt`.
+All dependencies are listed in `requirements.txt`.
 
 ## Future Enhancements
 
-- Add larger, real-world datasets.
-- Add authentication for different users.
-- Introduce advanced predictive analysis.
-- Add downloadable reports.
-- Deploy the dashboard online.
-- Add more interactive visualizations.
+- Integrate larger, real-world datasets.
+- Add authentication and role-based access.
+- Introduce predictive analytics for student performance.
+- Add downloadable analytical reports.
+- Expand interactive data visualizations.
 
 ## Author
 
@@ -151,4 +158,4 @@ The dependencies are listed in `requirements.txt`.
 
 Computer Engineering Student
 
-GitHub: [mangaonkarpriyada-code](https://github.com/mangaonkarpriyada-code)ss
+GitHub: [mangaonkarpriyada-code](https://github.com/mangaonkarpriyada-code)
