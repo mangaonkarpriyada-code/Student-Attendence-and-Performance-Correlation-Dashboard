@@ -214,7 +214,7 @@ st.subheader("Performance Category Percentage")
 
 performance_pie = df["Performance_Category"].value_counts()
 
-fig, ax = plt.subplots(figsize=(3, 3))
+fig, ax = plt.subplots(figsize=(2, 2))
 
 ax.pie(
     performance_pie,
