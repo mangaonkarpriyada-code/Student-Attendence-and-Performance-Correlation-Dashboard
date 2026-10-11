@@ -1,0 +1,16 @@
+Student_ID,Student_Name,Department,Semester,Attendance_Percentage,Assignment_Score,Internal_Marks,Final_Marks,Overall_Percentage,Month,Attendance_Category,Performance_Category,Status
+101,Priya,Computer Engineering,5,92,18,24,82,82,January,High,Excellent,Normal
+102,Rahul,Computer Engineering,5,74,15,19,68,68,January,Low,Good,Low Attendance
+103,Sneha,Computer Engineering,5,95,19,25,88,88,February,High,Excellent,Normal
+104,Amit,Computer Engineering,5,65,12,17,55,55,February,Low,Average,At Risk
+105,Neha,Computer Engineering,5,88,17,22,79,79,March,High,Excellent,Normal
+106,Rohan,Computer Engineering,5,72,14,18,63,63,March,Low,Good,Low Attendance
+107,Anjali,Computer Engineering,5,91,19,24,85,85,April,High,Excellent,Normal
+108,Vikas,Computer Engineering,5,58,10,15,48,48,April,Low,Average,At Risk
+109,Pooja,Computer Engineering,5,83,16,21,74,74,May,Moderate,Good,Normal
+110,Akash,Computer Engineering,5,69,13,17,59,59,May,Low,Average,At Risk
+111,Sakshi,Computer Engineering,5,97,20,26,91,91,June,High,Excellent,Normal
+112,Karan,Computer Engineering,5,76,15,20,70,70,June,Moderate,Good,Normal
+113,Meera,Computer Engineering,5,89,18,23,81,81,July,High,Excellent,Normal
+114,Aditya,Computer Engineering,5,61,11,16,52,52,July,Low,Average,At Risk
+115,Simran,Computer Engineering,5,93,19,25,87,87,August,High,Excellent,Normal

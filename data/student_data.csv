@@ -1,0 +1,16 @@
+Student_ID,Student_Name,Department,Semester,Attendance_Percentage,Assignment_Score,Internal_Marks,Final_Marks,Overall_Percentage,Month
+101,Priya,Computer Engineering,5,92,18,24,82,82,January
+102,Rahul,Computer Engineering,5,74,15,19,68,68,January
+103,Sneha,Computer Engineering,5,95,19,25,88,88,February
+104,Amit,Computer Engineering,5,65,12,17,55,55,February
+105,Neha,Computer Engineering,5,88,17,22,79,79,March
+106,Rohan,Computer Engineering,5,72,14,18,63,63,March
+107,Anjali,Computer Engineering,5,91,19,24,85,85,April
+108,Vikas,Computer Engineering,5,58,10,15,48,48,April
+109,Pooja,Computer Engineering,5,83,16,21,74,74,May
+110,Akash,Computer Engineering,5,69,13,17,59,59,May
+111,Sakshi,Computer Engineering,5,97,20,26,91,91,June
+112,Karan,Computer Engineering,5,76,15,20,70,70,June
+113,Meera,Computer Engineering,5,89,18,23,81,81,July
+114,Aditya,Computer Engineering,5,61,11,16,52,52,July
+115,Simran,Computer Engineering,5,93,19,25,87,87,August
